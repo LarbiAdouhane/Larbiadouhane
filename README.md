@@ -7,7 +7,6 @@
 🎓 I'm currently studying Computer Engineering.<br>
 🚀 I love building full-stack web applications using **React**, **PHP**, and **MySQL**.<br>
 🌱 I'm always learning and experimenting with new technologies.<br>
-💬 Ask me about **frontend development**, **APIs**, or **database design**.<br>
 
 ---
 
